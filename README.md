@@ -3,3 +3,4 @@ This repo contains exercises with my solutions to the Introduction to Machine Le
 - Linear and Logistic Regression
 - K-Nearest Neighbors and Approximate Nearest Neighbors Classifiers
 - Support Vector Machines, Linear SVM and Kernel SVM
+- Bernoulli Naive Bayes, Multinomial Naive Bayes, TF-IDF
