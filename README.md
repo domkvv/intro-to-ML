@@ -5,3 +5,4 @@ This repo contains exercises with my solutions to the Introduction to Machine Le
 - Support Vector Machines, Linear SVM and Kernel SVM
 - Bernoulli Naive Bayes, Multinomial Naive Bayes, TF-IDF
 - Imbalanced classification and anomaly detection
+- Feature selection
